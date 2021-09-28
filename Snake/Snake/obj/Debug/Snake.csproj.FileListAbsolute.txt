@@ -1,0 +1,7 @@
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\bin\Debug\Snake.exe.config
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\bin\Debug\Snake.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\bin\Debug\Snake.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\obj\Debug\Snake.exe
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\obj\Debug\Snake.pdb
+E:\D\ВАНЯ ЕГО Док\Программирование\С#\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
