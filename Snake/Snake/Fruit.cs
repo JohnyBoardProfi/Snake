@@ -47,7 +47,7 @@ namespace Snake
             Score += Convert.ToInt32(snake.X[0] == X && snake.Y[0] == Y) * 100;
             if (snake.X[0] == X && snake.Y[0] == Y)
             {
-                p.Print(Game.Width / 2 - 4, Game.Height + 2, $"Счёт: {Score}$");
+                p.Print(Game.Width / 2 - 4, Game.Height + 2, $"Score: {Score}$");
                 Rand(Game.Width, Game.Height, snake);
             }
         }
