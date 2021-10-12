@@ -21,7 +21,7 @@ namespace Snake
         public Game()
         {
             Console.CursorVisible = false;
-            Console.Title = "Змейка на C#";
+            Console.Title = "Snake";
             snake = new Snake();
             fruit = new Fruit();
         }
@@ -148,7 +148,7 @@ namespace Snake
                     Rules();
                     Thread.Sleep(100);
                 }
-                p.Print(Height / 2 - 4, Width / 2, "Ты проиграл!");
+                p.Print(Height / 2 - 4, Width / 2, "You lost!");
             }
         }
     }
