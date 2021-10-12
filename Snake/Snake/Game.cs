@@ -120,9 +120,9 @@ namespace Snake
         {
             ConsoleKeyInfo keyInfo = new ConsoleKeyInfo();
             ConsoleKey consoleKey = new ConsoleKey();
-            p.Print(Width / 2 - 5, 1, "Змейка");
-            p.Print(Width / 2 - 11, 2, "Нажмите Enter для старта");
-            p.Print(Width / 2 - 11, 3, "Нажмите Esc чтобы выйти");
+            p.Print(Width / 2 - 5, 1, "Snake");
+            p.Print(Width / 2 - 11, 2, "Press Enter to start the game");
+            p.Print(Width / 2 - 11, 3, "Press Esc to leave");
             chooseButton:
             keyInfo = Console.ReadKey(true);
             consoleKey = keyInfo.Key;
